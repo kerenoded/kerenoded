@@ -23,12 +23,12 @@ I enjoy building practical tooling and exploring how systems behave under real-w
 
 Most of my public projects focus on **practical tooling for testing and operating distributed systems in AWS environments**.
 
-### [AWS Fargate Workload Runner](https://github.com/kerenoded/aws-fargate-workload-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/aws-fargate-workload-runner?style=social)](https://github.com/kerenoded/aws-fargate-workload-runner)
+### [AWS Fargate Workload Runner](https://github.com/kerenoded/aws-fargate-workload-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/aws-fargate-workload-runner?style=social&logo=github)](https://github.com/kerenoded/aws-fargate-workload-runner/stargazers)
 
 Generic AWS workload generator built on **ECS Fargate** with pluggable scenarios (IoT, SQS).  
 Designed for controlled load generation and analysis of system behavior under stress.
 
-### [k6 Fargate Runner](https://github.com/kerenoded/k6-fargate-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social)](https://github.com/kerenoded/k6-fargate-runner)
+### [k6 Fargate Runner](https://github.com/kerenoded/k6-fargate-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social&logo=github)](https://github.com/kerenoded/k6-fargate-runner/stargazers)
 
 Repeatable **k6 load testing framework running on ECS Fargate**, generating traffic from a consistent cloud environment instead of developer laptops.
 
