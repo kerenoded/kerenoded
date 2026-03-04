@@ -1,8 +1,8 @@
-# Oded Keren
+# Hi, I'm Oded 👋
 
 AWS / Distributed Systems Architect focused on event-driven systems, high-scale telemetry & IoT pipelines, and pragmatic engineering tradeoffs (scalability, failure modes, observability, and cost).
 
-I enjoy building practical tooling and sharing real-world lessons from operating distributed systems in production.
+I enjoy building practical tooling and exploring how systems behave under real-world load, concurrency, and failure scenarios.
 
 ---
 
@@ -15,24 +15,40 @@ I enjoy building practical tooling and sharing real-world lessons from operating
 
 ---
 
+## Architecture Interests
+
+- Distributed systems design
+- System behavior under load and concurrency
+- Observability and production diagnostics
+- Performance engineering and reproducible load testing
+- Failure-mode analysis in cloud systems
+
+---
+
 ## Open Source Projects
 
 Most of my public projects focus on **practical tooling for testing and operating distributed systems in AWS environments**.
 
-### AWS Fargate Workload Runner
-[![Stars](https://img.shields.io/github/stars/kerenoded/aws-fargate-workload-runner?style=social)](https://github.com/kerenoded/aws-fargate-workload-runner)
+### AWS Fargate Workload Runner [![Stars](https://img.shields.io/github/stars/kerenoded/aws-fargate-workload-runner?style=social)](https://github.com/kerenoded/aws-fargate-workload-runner)
 
 **[aws-fargate-workload-runner](https://github.com/kerenoded/aws-fargate-workload-runner)**  
 Generic AWS workload generator built on **ECS Fargate** with pluggable scenarios (IoT, SQS).  
-Designed for controlled load generation and analyzing system behavior under stress.
+Designed for controlled load generation and analysis of system behavior under stress.
 
 ---
 
-### k6 Fargate Runner
-[![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social)](https://github.com/kerenoded/k6-fargate-runner)
+### k6 Fargate Runner [![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social)](https://github.com/kerenoded/k6-fargate-runner)
 
 **[k6-fargate-runner](https://github.com/kerenoded/k6-fargate-runner)**  
-Repeatable **k6 load testing framework running on ECS Fargate**, allowing traffic generation from a consistent cloud environment instead of developer laptops.
+Repeatable **k6 load testing framework running on ECS Fargate**, generating traffic from a consistent cloud environment instead of developer laptops.
+
+---
+
+## Currently Exploring
+
+- Load generation and reproducible performance testing environments
+- System behavior under high concurrency and burst traffic
+- Event-driven system reliability patterns
 
 ---
 
