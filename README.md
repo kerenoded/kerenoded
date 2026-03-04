@@ -1,10 +1,8 @@
 # Hi, I'm Oded 👋
 
-AWS / Distributed Systems Architect focused on event-driven systems, high-scale telemetry & IoT pipelines, and pragmatic engineering tradeoffs (scalability, failure modes, observability, and cost).
+AWS & Distributed Systems Architect focused on event-driven systems, high-scale telemetry and IoT pipelines, and pragmatic engineering tradeoffs (scalability, failure modes, observability, and cost).
 
 I enjoy building practical tooling and exploring how systems behave under real-world load, concurrency, and failure scenarios.
-
----
 
 ## Focus Areas
 
@@ -12,8 +10,6 @@ I enjoy building practical tooling and exploring how systems behave under real-w
 - AWS IoT platforms and telemetry pipelines
 - Serverless performance & cost optimization
 - Distributed system reliability and observability
-
----
 
 ## Architecture Interests
 
@@ -23,34 +19,24 @@ I enjoy building practical tooling and exploring how systems behave under real-w
 - Performance engineering and reproducible load testing
 - Failure-mode analysis in cloud systems
 
----
-
 ## Open Source Projects
 
 Most of my public projects focus on **practical tooling for testing and operating distributed systems in AWS environments**.
 
-### AWS Fargate Workload Runner [![Stars](https://img.shields.io/github/stars/kerenoded/aws-fargate-workload-runner?style=social)](https://github.com/kerenoded/aws-fargate-workload-runner)
+### [AWS Fargate Workload Runner](https://github.com/kerenoded/aws-fargate-workload-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/aws-fargate-workload-runner?style=social)](https://github.com/kerenoded/aws-fargate-workload-runner)
 
-**[aws-fargate-workload-runner](https://github.com/kerenoded/aws-fargate-workload-runner)**  
 Generic AWS workload generator built on **ECS Fargate** with pluggable scenarios (IoT, SQS).  
 Designed for controlled load generation and analysis of system behavior under stress.
 
----
+### [k6 Fargate Runner](https://github.com/kerenoded/k6-fargate-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social)](https://github.com/kerenoded/k6-fargate-runner)
 
-### k6 Fargate Runner [![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social)](https://github.com/kerenoded/k6-fargate-runner)
-
-**[k6-fargate-runner](https://github.com/kerenoded/k6-fargate-runner)**  
 Repeatable **k6 load testing framework running on ECS Fargate**, generating traffic from a consistent cloud environment instead of developer laptops.
-
----
 
 ## Currently Exploring
 
 - Load generation and reproducible performance testing environments
 - System behavior under high concurrency and burst traffic
 - Event-driven system reliability patterns
-
----
 
 ## Writing
 
@@ -62,8 +48,6 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 - **[AWS IoT Services Deprecation: From Managed Pipelines to Modular Cloud Architectures](https://www.linkedin.com/pulse/aws-iot-services-deprecation-from-managed-pipelines-modular-keren-wqipf/)**  
   What the retirement of IoT Analytics and IoT Events signals about AWS’s direction for modern IoT architectures.
 
----
-
 ### Selected posts
 
 #### Serverless / performance / cost
@@ -72,20 +56,17 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 - **[Going beyond Power Tuning: validating cost vs latency with controlled load tests (k6 on Fargate)](https://www.linkedin.com/posts/activity-7432464564836810752-iqHD)**
 - **[How did we reduce AWS cloud costs by ~50%? Practical actions + tools](https://www.linkedin.com/posts/activity-7421489407251263490-cNgA)**
 
----
 
 #### Observability / production readiness
 
 - **[Most production incidents aren’t hard to fix — they’re hard to understand fast enough](https://www.linkedin.com/posts/activity-7425935295059099648-d8Zr)**  
   A monitoring maturity journey and lessons from improving incident response.
 
----
 
 #### IoT / event-driven architecture
 
 - **[Golden AWS IoT insights for reliability, scale, and cost-efficiency](https://www.linkedin.com/posts/activity-7416916197604220929-pNAr)**
 
----
 
 #### Cloud strategy / delivery
 
@@ -94,13 +75,9 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 
 - **[Analysis paralysis vs bias for action](https://www.linkedin.com/posts/activity-7423606103550345216-L-j-)**
 
----
-
 #### Notes from the field
 
 - **[Amazon AgentCore: production AI agents at scale (AWS Israel event takeaways)](https://www.linkedin.com/posts/activity-7428775902294986752-530e)**
-
----
 
 ## Connect
 
