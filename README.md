@@ -28,7 +28,7 @@ Most of my public projects focus on **practical tooling for testing and operatin
 Generic AWS workload generator built on **ECS Fargate** with pluggable scenarios (IoT, SQS).  
 Designed for controlled load generation and analysis of system behavior under stress.
 
-### [k6 Fargate Runner](https://github.com/kerenoded/k6-fargate-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social&logo=github)](https://github.com/kerenoded/k6-fargate-runner/stargazers)
+### [k6 Fargate Runner](https://github.com/kerenoded/k6-fargate-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social&logo=github&v=3)](https://github.com/kerenoded/k6-fargate-runner/stargazers)
 
 Repeatable **k6 load testing framework running on ECS Fargate**, generating traffic from a consistent cloud environment instead of developer laptops.
 
@@ -65,6 +65,7 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 
 #### IoT / event-driven architecture
 
+- **[Load-test your EDA system without permanent infrastructure](https://www.linkedin.com/feed/update/urn:li:activity:7435209996797173760/)**
 - **[Golden AWS IoT insights for reliability, scale, and cost-efficiency](https://www.linkedin.com/posts/activity-7416916197604220929-pNAr)**
 
 
