@@ -56,6 +56,9 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 - **[Going beyond Power Tuning: validating cost vs latency with controlled load tests (k6 on Fargate)](https://www.linkedin.com/posts/activity-7432464564836810752-iqHD)**
 - **[How did we reduce AWS cloud costs by ~50%? Practical actions + tools](https://www.linkedin.com/posts/activity-7421489407251263490-cNgA)**
 
+#### Architecture / networking / cost tradeoffs
+
+- **[Private subnet connectivity: NAT vs Gateway Endpoint vs Interface Endpoint](https://www.linkedin.com/posts/activity-7436791678566391808-r5na)**
 
 #### Observability / production readiness
 
