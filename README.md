@@ -42,6 +42,9 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 
 ### Featured articles (long-form)
 
+- **[Turning Noisy AWS IoT Presence (connect/disconnect events) into Reliable Connectivity State](https://www.linkedin.com/pulse/turning-noisy-aws-iot-presence-connectdisconnect-events-oded-keren-qwegf)**  
+  How to turn noisy IoT connect/disconnect streams into a bounded, reliable connectivity signal using rate limiting, back-pressure, and derived state instead of treating raw presence events as truth.
+
 - **[How do you find the cost vs performance sweet spot of an AWS Lambda function?](https://www.linkedin.com/pulse/how-do-you-find-cost-vs-performance-sweet-spot-aws-lambda-oded-keren-gy4ef/)**  
   Exploring Lambda memory tuning impact on cost and latency, validated with AWS Lambda Power Tuning and controlled load tests.
 
