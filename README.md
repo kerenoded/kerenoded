@@ -21,14 +21,19 @@ I enjoy building practical tooling and exploring how systems behave under real-w
 
 ## Open Source Projects
 
-Most of my public projects focus on **practical tooling for testing and operating distributed systems in AWS environments**.
+Most of my public projects focus on **practical tooling for testing, investigating, and operating distributed systems in AWS environments**.
 
-### [AWS Fargate Workload Runner](https://github.com/kerenoded/aws-fargate-workload-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/aws-fargate-workload-runner?style=social&logo=github&v=3)](https://github.com/kerenoded/aws-fargate-workload-runner/stargazers)
+### [AWS Incident Investigator](https://github.com/kerenoded/aws-incident-investigator)
+
+AWS-native incident investigation workflow built around **deterministic workers and bounded AI**.  
+Uses Step Functions to orchestrate evidence collection across metrics, logs, and traces, while GenAI serves as an advisory layer to compare competing hypotheses, interpret cross-source evidence, and surface missing evidence.
+
+### [AWS Fargate Workload Runner](https://github.com/kerenoded/aws-fargate-workload-runner)
 
 Generic AWS workload generator built on **ECS Fargate** with pluggable scenarios (IoT, SQS).  
 Designed for controlled load generation and analysis of system behavior under stress.
 
-### [k6 Fargate Runner](https://github.com/kerenoded/k6-fargate-runner) [![Stars](https://img.shields.io/github/stars/kerenoded/k6-fargate-runner?style=social&logo=github&v=3)](https://github.com/kerenoded/k6-fargate-runner/stargazers)
+### [k6 Fargate Runner](https://github.com/kerenoded/k6-fargate-runner)
 
 Repeatable **k6 load testing framework running on ECS Fargate**, generating traffic from a consistent cloud environment instead of developer laptops.
 
@@ -41,6 +46,9 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 ## Writing
 
 ### Featured articles (long-form)
+
+- **[When a few noisy devices took down the system: lessons from a production investigation](https://www.linkedin.com/pulse/when-few-noisy-devices-took-down-system-lessons-from-production-oded-lomnf)**  
+  A production incident investigation from an IoT canary OTA rollout that exposed how a small subset of noisy devices, hot database paths, app-triggered follow-up API calls, and retry behavior combined into system-wide contention.
 
 - **[Turning Noisy AWS IoT Presence (connect/disconnect events) into Reliable Connectivity State](https://www.linkedin.com/pulse/turning-noisy-aws-iot-presence-connectdisconnect-events-oded-keren-qwegf)**  
   How to turn noisy IoT connect/disconnect streams into a bounded, reliable connectivity signal using rate limiting, back-pressure, and derived state instead of treating raw presence events as truth.
@@ -71,7 +79,11 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 
 #### IoT / event-driven architecture
 
+- **[Sometimes the best architecture improvement is removing an unnecessary path](https://www.linkedin.com/posts/activity-7441138163894534144-48j9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAC_jasBvYjJFSEkCUOVkgkV0WULfzpgaE4)**  
+  Simplifying a production IoT progress-update flow by replacing a heavier event-processing path with a direct IoT Rule → Device Shadow pattern, reducing latency, cost, and operational complexity.
+
 - **[Load-test your EDA system without permanent infrastructure](https://www.linkedin.com/feed/update/urn:li:activity:7435209996797173760/)**
+
 - **[Golden AWS IoT insights for reliability, scale, and cost-efficiency](https://www.linkedin.com/posts/activity-7416916197604220929-pNAr)**
 
 
