@@ -21,7 +21,13 @@ I enjoy building practical tooling and exploring how systems behave under real-w
 
 ## Open Source Projects
 
-Most of my public projects focus on **practical tooling for testing, investigating, and operating distributed systems in AWS environments**.
+My public projects span two areas: **practical tooling for testing, investigating, and operating distributed systems in AWS environments**, and explorations in **multi-agent AI orchestration and generative applications**.
+
+### [Linions](https://github.com/kerenoded/linions)
+
+AI-powered interactive animated story generator built on **multi-agent orchestration and deterministic validation**.  
+Uses a pipeline of four specialized Claude agents on Amazon Bedrock to generate complete branching episodes — story script, character choreography, SVG obstacle art, and frame-by-frame animation — from a single natural language prompt.
+
 
 ### [AWS Incident Investigator](https://github.com/kerenoded/aws-incident-investigator)
 
@@ -86,6 +92,7 @@ Repeatable **k6 load testing framework running on ECS Fargate**, generating traf
 
 - **[Golden AWS IoT insights for reliability, scale, and cost-efficiency](https://www.linkedin.com/posts/activity-7416916197604220929-pNAr)**
 
+- **[AWS IoT Core as a modular event-flow layer — routing, rules, shadow state, and beyond](https://www.linkedin.com/posts/activity-7448006882058776576-oxnq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAC_jasBvYjJFSEkCUOVkgkV0WULfzpgaE4)**
 
 #### Cloud strategy / delivery
 
