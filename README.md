@@ -1,8 +1,8 @@
 # Hi, I'm Oded 👋 <a href="https://www.credly.com/badges/1faa42ea-ce60-41c6-b84e-141d02c5b92b/public_url"><img src="./assets/aws-saa-badge.png" alt="AWS Certified Solutions Architect – Associate" width="50" align="center"></a>
 
-AWS & Distributed Systems Architect focused on event-driven systems, high-scale telemetry and IoT pipelines, and pragmatic engineering tradeoffs (scalability, failure modes, observability, and cost).
+Production-focused software architect specializing in AWS, distributed systems and event-driven architectures. Passionate about reliability, observability, performance engineering and practical tooling.
 
-I enjoy building practical tooling and exploring how systems behave under real-world load, concurrency, and failure scenarios.
+I enjoy building practical engineering tools and exploring how systems behave under real-world load, concurrency and failure scenarios.
 
 ## Focus Areas
 
