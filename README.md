@@ -1,8 +1,10 @@
 # Hi, I'm Oded 👋 <a href="https://www.credly.com/badges/1faa42ea-ce60-41c6-b84e-141d02c5b92b/public_url"><img src="./assets/aws-saa-badge.png" alt="AWS Certified Solutions Architect – Associate" width="50" align="center"></a>
 
-Production-focused software architect specializing in AWS, distributed systems and event-driven architectures. Passionate about reliability, observability, performance engineering and practical tooling.
+Hands-on senior software engineer and software architect with extensive experience building and operating production systems—from backend, web, and mobile development to AWS architecture, CI/CD, observability, reliability, and performance optimization.
 
-I enjoy building practical engineering tools and exploring how systems behave under real-world load, concurrency and failure scenarios.
+I work primarily with Java/Spring, Node.js, Python, React, React Native, and Angular. I enjoy staying close to both the customer and the production experience: understanding real customer needs, translating them into valuable products, and owning the engineering journey through implementation, deployment, and production operations.
+
+I particularly enjoy investigating complex production incidents, finding their root causes, and turning those findings into simpler, more reliable, observable, and maintainable systems.
 
 ## Focus Areas
 
@@ -11,7 +13,7 @@ I enjoy building practical engineering tools and exploring how systems behave un
 - Serverless performance & cost optimization
 - Distributed system reliability and observability
 
-## Architecture Interests
+## Engineering Interests
 
 - Distributed systems design
 - System behavior under load and concurrency
